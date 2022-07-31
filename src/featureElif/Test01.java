@@ -11,6 +11,12 @@ public class Test01 {
 
 
 
+        String str2 = "Hi yes"; // Mohammad
+
+
+        String str3 = "Test 3 from ahy";
+
+
     }
 
 
