@@ -9,6 +9,8 @@ public class Test01 {
 
         //   :)
 
+        String str2 = "Hi yes"; // Mohammad
+
     }
 
 
